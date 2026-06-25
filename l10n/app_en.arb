@@ -1,0 +1,76 @@
+{
+  "@@locale": "en",
+  "appTitle": "Riverpod Demo",
+  "@appTitle": {
+    "description": "Application title shown in the app bar"
+  },
+  "homeTitle": "Home",
+  "@homeTitle": {
+    "description": "Title for the home screen"
+  },
+  "settingsTitle": "Settings",
+  "@settingsTitle": {
+    "description": "Title for the settings screen"
+  },
+  "counterLabel": "Counter",
+  "@counterLabel": {
+    "description": "Label above the counter value"
+  },
+  "increment": "Increment",
+  "@increment": {
+    "description": "Button to increase the counter"
+  },
+  "decrement": "Decrement",
+  "@decrement": {
+    "description": "Button to decrease the counter"
+  },
+  "goToSettings": "Go to Settings",
+  "@goToSettings": {
+    "description": "Navigation button to open settings"
+  },
+  "themeMode": "Theme Mode",
+  "@themeMode": {
+    "description": "Label for theme mode selector"
+  },
+  "themeLight": "Light",
+  "@themeLight": {
+    "description": "Light theme option"
+  },
+  "themeDark": "Dark",
+  "@themeDark": {
+    "description": "Dark theme option"
+  },
+  "themeSystem": "System",
+  "@themeSystem": {
+    "description": "System theme option"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Label for language selector"
+  },
+  "languageEn": "English",
+  "@languageEn": {
+    "description": "English language option"
+  },
+  "languageZh": "Chinese",
+  "@languageZh": {
+    "description": "Chinese language option"
+  },
+  "backToHome": "Back to Home",
+  "@backToHome": {
+    "description": "Navigation button to return home"
+  },
+  "welcomeMessage": "Welcome to the demo app!",
+  "@welcomeMessage": {
+    "description": "Welcome text on the home screen"
+  },
+  "counterValue": "Current value: {count}",
+  "@counterValue": {
+    "description": "Displays the current counter value",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
+}
